@@ -1,0 +1,16 @@
+{
+  "name": "Unnamed Layer",
+  "id": "1124877766066983898",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "parameters": [
+  {
+    "name": "Icon name",
+    "key": "icon-name",
+    "description": "This plugin add and identifier to each layers and sublayers that still have their default name"
+  }
+]
+}
