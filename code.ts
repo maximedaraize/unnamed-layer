@@ -6,7 +6,7 @@ function traverse(node) {
       for (const child of node.children) {
         traverse(child)
         if(child.name.match(/^Star|^Rectangle|^Connector|^Ellipse|^Frame|^Line|^Page|^Polygon|^Text|^Vector|^Arrow|^Slice|^Group \d+$/)) {
-          child.name = '🔴 ' + child.name
+          child.name = '❗️ ' + child.name
         }
       }
     }

@@ -5,12 +5,5 @@
   "main": "code.js",
   "editorType": [
     "figma"
-  ],
-  "parameters": [
-  {
-    "name": "Icon name",
-    "key": "icon-name",
-    "description": "This plugin add and identifier to each layers and sublayers that still have their default name"
-  }
-]
+  ]
 }
